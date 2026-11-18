@@ -20,7 +20,6 @@ STORES = [
     "https://thehobhub.com/collections/dragon-ball-super",
     "https://www.gamescape.com/collections/dragon-ball-super-collectible-card-game",
     "https://guubuu.com/collections/dragon-ball-super-fusion-world",
-    "https://www.sweetsandgeeks.com/collections/dragon-ball-super",
     "https://www.cardshq.com/collections/dragon-ball-boxes",
 ]
 
